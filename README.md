@@ -1,3 +1,3 @@
 # ItsNeverLate
 Start learning today
-as its never late
+as it is never late
